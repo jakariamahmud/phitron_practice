@@ -14,7 +14,7 @@ int main()
             j--;
         }
     }
-    printf("%d\n",count);
+
     if(count==0){
         printf("YES");
     }else{
